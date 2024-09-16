@@ -1,4 +1,4 @@
-# Eslint & Prettier Basic configuration projuct
+# Eslint & Prettier Basic configuration project
 
 ## used repo
 ```json

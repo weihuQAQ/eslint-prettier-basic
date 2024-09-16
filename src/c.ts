@@ -1,4 +1,4 @@
-import { parseXXX } from './b.js';
+import { parseXXX } from './b';
 
 export default function () {
   parseXXX();
